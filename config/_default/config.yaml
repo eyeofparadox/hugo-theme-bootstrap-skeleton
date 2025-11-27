@@ -1,6 +1,7 @@
-baseURL: https://hbs-skeleton.netlify.app/
-title: Hugo Bootstrap Skeleton
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+baseURL: https://eyeofparadox.github.io/
+# https://hbs-skeleton.netlify.app/
+title: eyeofparadox on github
+copyright: 'Copyright © 2007-2025 eyeofparadox. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
